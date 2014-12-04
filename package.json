@@ -1,0 +1,24 @@
+{
+  "name": "pageobject",
+  "version": "0.0.1",
+  "description": "Selenium page object",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxmalov/node-selenium-pageobject.git"
+  },
+  "keywords": [
+    "selenium",
+    "webdriver",
+    "pageobject"
+  ],
+  "author": "Maxim Malov <m.malov.v@gmail.com>",
+  "license": "The MIT License (MIT)",
+  "bugs": {
+    "url": "https://github.com/maxmalov/node-selenium-pageobject/issues"
+  },
+  "homepage": "https://github.com/maxmalov/node-selenium-pageobject",
+  "dependencies": {
+    "class-extend": "^0.1.1"
+  }
+}
