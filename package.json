@@ -1,6 +1,6 @@
 {
   "name": "pageobject",
-  "version": "0.0.1",
+  "version": "1.0.0-beta.0",
   "description": "Selenium page object",
   "main": "index.js",
   "repository": {
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/maxmalov/node-selenium-pageobject",
   "dependencies": {
-    "class-extend": "^0.1.1"
+    "lodash": "^3.8.0"
   }
 }
